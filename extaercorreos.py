@@ -1,6 +1,5 @@
 import imaplib
 import re
-from tabulate import tabulate
 from regex import getRegexId
 
 host = 'imap.gmail.com'

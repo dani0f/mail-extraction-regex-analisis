@@ -1,6 +1,6 @@
 import re
 
-#código basado
+#código basado de https://github.com/benstreb/regex-generator
 
 def generate_regex(samples):
     characters_list = []
@@ -22,7 +22,7 @@ def extend_characters_list(characters_list, length):
     extension_length = max(length - len(characters_list), 0)
     return characters_list + [set() for i in range(extension_length)]
 
-#Código propio para reducir el regex generado
+#Código para reducir el regex generado
 
 def dif(str1,str2):
     minS = str1

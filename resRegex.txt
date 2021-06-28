@@ -1,0 +1,35 @@
+---------------Correo numero 0----------------------
+MessageId: 5[cde][a-z]{11}@buscalibre.com
+Primer received: from localhost.localdomain[ ][(n u]{3}[ekcn]{2}[2o-w]{2}[13n)48]{2}[ -12b]{2}[09y][ 47][-g][ 12e5io]{2}[-1psmo]{2}[47dt][-9p.di]{2}[0csmo]{2}[a-zdpu]{3}[-1t][26eim][-ad13w]{2}[(.a 12]{2}[SmsGae]{2}[)nz do]{2}[gnwair]{2}[itwdhs]{2}[.cn]{2}[ eoEmt]{2}[ S(M[]{2}[13ST][48GP][ ).12i]{2}[09dw][ 47i][.HQt][125Wh m]{2}[.14ERHSc]{2}[47MSu][19BT]k[P] )T]{3}[ 3Zi][KSbd][ QYy][a-zA-Z0-9_ ]{5}[a-zA-Z0-9 _-^]{10}[a-zA-Z0-9.-^<]{5}[a-zA-Z0-9( _]{2}[ Sln][Gdfy][)@go][ br][iuwds]{2}[ .ct][<ahn el]{2}[Eiot][ -Sb][(MrSTe]{2}[.GPp][ )clioy]{2}[@dmw][ >bi][;Aktu][ fhs][ KTcy][Eauvy][5SUel][,-MPi][ IT_b][^A-Za-z0-9 ]{2}[ .STi][^A-Za-z0-9 >]{4}[a-zA-Z0-9_ ;]{4}[a-zA-Z0-9 -_,:]{6}[a-zA-Z0-9_-:]{3}[a-zA-Z0-9 -_]{2}[a-zA-Z0-9 -^.<]{4}[a-zA-Z0-9 ][a-z][0:fp][024lo][a-z][0:@][a-z]{2}[.<Us][^A-Za-z0-9]{2}[a-z ir]{2}[+be0pr]{2}[0el.y]{2}[0@c bo]{2}[(mu>Us]{2}[;Tc Ca]{2}[)Tlhiu]{2}[,rbeu]{2}[ e.01]{2}[ o15c]{2}[FMm>ae]{2}[;br] [2FSTW][0ehru][,0a-z]{2} [012][\d :]{2}[a-zAZ]{3}[ 4125]{2}[.0128]{2}[ 34069{2}[ 12][a-zA-Z0-9+][0:\d]{4}[a-zA-Z0-9 (]{2}[A-Z.U]{3}[a-zA-Z0-9)] +0000 (UTC)
+Penultimo received: by 2002:a4f:[149adef][0:a-z]{12}[itw 0]{4}[MS ht]{4}[ iPMT]{4}[ 1di]{3}[a-z][12367][csa-z]{2}[psa-z]{2}[a-z\d]{7}[a-ziov]{3}[ ;FTW][a-zA-Z0-9 ^]{2}[a-z]{2}[ ,12][a-zA-Z0-9 ]{2}[A-Z][a-zA-Z0-9][a-zAZ]{5}[ 0192]{5}[a-zA-Z0-9 :-]{9}[ (078-]{6}[)DSTP (]{4}[T]]UTC: +0000 (UTC)
+From: ["=A-Z]{2}[a-z]{2}[a-zA-Z0-9 "=%?-]{8}[a-zA-Z0-9 ][a-zA-Z0-9:<=_"%]{2}[a-z][a-zA-Z0-9 <="_]{2}[a-z][a-zA-Z0-9 "][a-z]{3}[a-zA-Z0-9"<@][a-z][a-zA-Z0-9 @_"<+=]{3}[a-z][a-zA-Z0-9.<][a-z][a-zA-Z0-9=?][a-z]{18}[.bcilor]{2}[bemor.>]{2}[>moc.e]{4}[m]]
+Mail:info@buscalibre.com
+---------------Correo numero 1----------------------
+MessageId: 5[ef][a-z]{6}.1c69fb81.[123456789abcdef][a-z.b]{8}[^A-Za-z0-9][IPTMS]{4}[AD_IN]{4}D[DE][BR_DE]{4}[ENKOR]{4}[.xm@N]{4}[gl.oo]{4}[co.el]{4}[o]]
+Primer received: from ae-buyer-usertouch-worker-s011[01][\d012]{8}.center.na6[12](mailfrom:promotion@aliexpress.com fp:SMTPD_[-D][-U]--.[STUVWXYZabcdefg][a-zA-Z0-9-.^]{5}) by smtp.aliyun-inc.com(127.0.0.1); [FMSTW][a-z]{2}, [0123][\d] [AJM][apu][lnry] 2020 [12][\d]:[012345][\d]:[012345][\d] +0800
+Penultimo received: by 2002:a4f:[def][134c89d]{2}[ 0:4a]{11}[ htiw]{5}[ PTMS]{5}[ 1di]{4}[9eipz][124608c]{2}[cspa-z]{3}[a-z\d]{7}[ ;jnoiv]{3}[A-Z][a-zA-Z0-9 ^]{2}[a-z]{2}[ ,128][a-zA-Z0-9 ][A-Z][a-zA-Z0-9 ]{2}[a-zAZ]{5}[02 17]{5}[a-zA-Z0-9 -:]{9}[ (DP07-]{7}[)TD(P]{4})
+UTC: +0800 (UTC)
+From: AliExpress <promotion@aliexpress.com>
+Mail:promotion@aliexpress.com
+---------------Correo numero 2----------------------
+MessageId: [a-z]{8}-[0123456789abcdef][a-z]{3}-4[012345678abcdef][a-z89b]{6}-[02345679abcdef][a-z]{11}@ind1s06mta1[24][\d234]{2}.xt.local
+Primer received: by mta.contenido.cencosud.cl id h[012349afhijpqrstuv][a-z]{4}2fmd4[013469bcefghijlmnoqstuv] for <DANIELAMRENCORET@GMAIL.COM>; [FMSTW][a-z]{2}, [12345689][a-zA-Z0-9 ][A-Z][^A-Za-z0-9][ 2a-z]{3}[0134 92]{6}[a-zA-Z0-9:]{2}[\d][a-zA-Z0-9:]{2}[\d][a-zA-Z0-9 ][ +0000]{3}[evn (]{5}[-epol]{5}[mor-f]{4}[ <m]{4}[nuo<b]{4}[-12ecn]{4}[015923]{2}[a-zA-Z0-9_][378H_9T]{2}[-1LMTH_]{4}[35681-L]{6}[-134968]{5}[a-zA-Z0-9-][\d]{5}[a-zA-Z0-9-]{3}[-037682]{6}[-017][a-zA-Z0-9-@][a-z]{7}[cenou][a-z][.cnote]{4}[a-z][denoti]{2}[a-z]{4}[cenou.sd]{4}[a-z]{2}[cdosu][a-z]{3}[)>lc.d]{4}[>]]
+Penultimo received: by 2002:a[04][5f]:[1469af][467ac][\da-z]{2}[ :w0e1]{11}[ hitw0]{4}[ MTSth]{3}[ TiPSM]{3}[ 1idP]{3}[a-z][a-zA-Z0-9 ][246cf][1cs4p]{2}[a-z\d]{10}[a-zA-Z0-9 ,;]{6}[a-z][a-zA-Z0-9 ,]{4}[a-zAZ]{3}[a-zA-Z0-9 ]{2}[a-z]{2}[ 0129][a-zA-Z0-9 -:]{13}[ -078][a-zA-Z0-9 (-][ (08P][A-Z]{5}[)TSP]{3})
+UTC: +0000 (UTC)
+From: "Easy" <contacto@email.easy.cl>
+Mail:contacto@email.easy.cl
+---------------Correo numero 3----------------------
+MessageId: 20[12][0123\d9]{4}[\d012]{7}.[1234589][\d]{2}[a-zA-Z0-9.]{3}[\d]{3}[a-zA-Z0-9.][apt-z.]{3}[@aicrt]{6}[-pyta@]{6}[ceor-p]{4}[.apcse]{9}[-arytp]{5}[.inayr]{6}[anreti]{5}[aln]{2}l
+Primer received: from paty-processes.c.paty-araya.internal ([13][.257]{3}.[37012]{3}[57.1]{2}[ y)b4]{4}[ by]{3}[st m]{3}[.pm3t]{3}[cu3.r]{3}[lzrbu]{3}[ancbl]{4}[ c.la]{4}[(7l 1]{3}[13.27]{6}[.594]{4}[iw )7]{4}[Mi ht]{5}[osrci]{5}[ Stfo]{4}[ SPTM]{5}[ revS]{6}[15 di]{5}[348.1069]{6}[789.03]{2}[ v;]{4}[^A-Za-z0-9][,Fa-z]{3}[a-z r]{3}[a-zA-Z0-9 ^]{2}[ 2a-z]{3}[019a2Tr]{3}[ 9n01s]{2}[a-z]{4}[a-zA-Z0-9:; ]{2}[a-zAZ]{3}[,-0 34]{2}[\d][a-zA-Z0-9 ][ 0FJe]{2}[abe n]{2}[019 278:]{8}[34:125]{2}[a-zA-Z0-9:][13:][02356][a-zA-Z0-9 ][03 -]{4}00
+Penultimo received: by 2002:a[04][5f]:[1469abef][a-z\d]{3}[ :w0e1]{11}[ hitw0]{4}[ MTSth]{3}[ TiPSM]{3}[ 1idP]{3}[a-z][a-zA-Z0-9 ][a-z1cs]{2}[a-z4ps]{4}[a-z\d]{6}[a-zA-Z0-9 ,;]{8}[a-z][a-zA-Z0-9 ,]{3}[a-zAZ]{3}[a-zA-Z0-9 ]{2}[a-z]{2}[ 0129][a-zA-Z0-9 -:(]{14}[A-Z][ (08S][A-Z]{5}[)TSP]{3})
+UTC: -0[34]00 (UTC)
+From: Antonia E. <antonia.e@integramedica.cl>
+Mail:antonia.e@integramedica.cl
+---------------Correo numero 4----------------------
+MessageId: [a-zA-Z0-9_-^]{8}[QRST][a-zA-Z0-9-^_]{12}[AQgw]@ismtpd00[0123][\d]p1[im][12adw]{3}.sendgrid.net
+Primer received: from NTYxNjk3OA (ec2-34-198-122-7.compute-1.amazonaws.com [34.198.122.7]) by ismtpd00[0123][\d]p1[im][12adw]{3}.sendgrid.net (SG) with HTTP id [01279ABCFGKRTUVXZadfhmnoqsvxz][a-zA-Z0-9_-^]{7}[QRST][a-zA-Z0-9-^_]{12}[AQgw] [FMSTW][a-z]{2}, [0123][\d] [AOS][ceugpt]{2} 2017 1[0136]:[01][\d]:[012345][\d].[0123456789][\d]{2} +0000 (UTC)
+Penultimo received: by 10.12.1[3459][\d.12]{2}[379][a-zA-Z0-9 ][ htiw]{5}[ PTMS]{5}[ hdi]{4}[a-z]{2}[cps369]{2}[a-z\d]{8}[45nqv][a-z]{2}[ ;Snt][a-zA-Z0-9, ;]{3}[a-z]{2}[a-zA-Z0-9 ,]{2}[A-Z][a-zA-Z0-9 ]{3}[ 012gpu]{3}[ 0712]{5}[
+ 036][a-zA-Z0-9: -]{8}[ (0P7-4]{7}[)DTP (]{4}[T]]
+UTC: +0000 (UTC)
+From: "Groupon[ "][ PV<ir]{2}[anodjv]{2}[eirucds]{2}["ept][ lno][<csy]["@in][ aco]["<lr][ .en<op]{2}[eoylnr]{2}[@dpr][ceilpsy]{2}[.@hl][cmny][@ael.ci]{2}[dln.ei]{2}[censdho]{2}[eim][>ads][hilms]{2}[.ahcim]{2}[alo.im]{2}[.o>cl]{2}[cm>o]{2}m>
+Mail:noreply@cl.needishmail.com

@@ -19,12 +19,12 @@ for c in range(len(mails)):
     utcArray = []
     fromArray = []
     mailArray = []
-    for i in range(41):#42
+    for i in range(41):
         num = arrayData[i]
         typ, data = imap.fetch(num, '(BODY[HEADER.FIELDS (MESSAGE-ID)])')
         messageId= data[0][1].decode()
         messageId = messageId.split("<")[1].replace(">","").strip()
-        typ, data = imap.fetch(num, '(BODY[HEADER.FIELDS (Date)])')#+1000 utc
+        typ, data = imap.fetch(num, '(BODY[HEADER.FIELDS (Date)])')
         messageUTC= data[0][1].decode()   
         typ, data = imap.fetch(num, '(BODY[HEADER.FIELDS (From)])')
         messageFrom= data[0][1].decode().replace("From:","").strip()
